@@ -1,4 +1,4 @@
-#Hyrule Castle 
+# Hyrule Castle 
 Hyrule Castle is a turn-based game built using TypeScript and designed to be played in the terminal. The game is set in the mystical world of Hyrule and features ten levels, with a boss at the end of the final level. The objective of the game is to defeat all the enemies and progress to the next level.
 
 ## Installation
